@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there ðŸ‘‹
-
 I'm Robi!
 
 Full Stack Web Developer. An enthusiast of technology, always enjoy coding, like to solve programming problem. I have interest on thinking/develop about web related any module or functionality & always try to find out new idea. I have 1.5 years of job experience on Web Development & Design in Software company.
