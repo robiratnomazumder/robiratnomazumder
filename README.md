@@ -15,7 +15,7 @@ In tech community, i try to help the people by sharing my knowledge. I love to r
   "Languages"  : ["Python", "PHP", "JavaScript", "C", "C++"],
   "Front-end"  : ["AngularJS", "Vue.js", "Bootstrap"],
   "Back-end"   : ["Laravel", "Django", "Express"],
-  "DBMS"       : ["Postgres", "MySQL"]
+  "DBMS"       : ["PostgreSQL", "MySQL"]
 }
 ```
 
