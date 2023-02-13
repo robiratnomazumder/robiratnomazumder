@@ -35,7 +35,7 @@ In tech community, i try to help the people by sharing my knowledge. I love to r
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/robiratnomazumder/count.svg" />
 </p>
 
 <!--
