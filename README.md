@@ -6,7 +6,7 @@ I live in [Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.
        
 In tech community, i try to help the people by sharing my knowledge. I love to read tech related article & to play piano during my free time.   
 
-#### :earth_asia: Portfolio:  [robiratno.herokuapp.com](http://robiratno.herokuapp.com)
+#### :earth_asia: Portfolio:  [rrobi.netlify.app](https://rrobi.netlify.app/) 
 
 ### :rocket: Stacks
 
